@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
- * main - print out sizes of data type
- * Return: always 0. 
+ * main - Entry
+ * Return: Alwaysi(0) 
  */
+
 int main(void)
 {
 	char a;
