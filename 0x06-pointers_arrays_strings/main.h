@@ -1,11 +1,5 @@
 #ifndef MAIN_H
 #define MAIN_H
-/**
- * File: main.h
- * Auth: abel g
- * Desc: header file containig=ng prototype for all function
- *       used in the 0x06. C - More pointers, arrays and strings directory.
- */
 
 int _putchar(char c);
 char *_strcat(char *dest, char *src);
