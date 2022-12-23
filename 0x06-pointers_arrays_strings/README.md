@@ -1,1 +1,1 @@
-0x06-pointers_arrays_strings     
+write a description of all the projects here
