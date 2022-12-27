@@ -1,5 +1,6 @@
 #include <main.h>
-/**
+
+/*i*
  * main - Entry point
  * Return:0
  */
