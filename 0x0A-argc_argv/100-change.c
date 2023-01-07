@@ -18,6 +18,12 @@ int main(int argc, char *argv[])
 	if (argc != 2)
 	{
 		printf("Error\n");
+		return (1);
+	}
+	value = atoi(argv[1]);
+	if (value < 0)
+	{
+		printf("Error\n");
 		return (0);
 	}
 	if (value % 25 >= 0)
@@ -46,5 +52,4 @@ int main(int argc, char *argv[])
 	}
 	printf("%d\n", c);
 	return (0);
-
 }
